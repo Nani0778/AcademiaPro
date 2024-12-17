@@ -123,8 +123,8 @@ export default function Login() {
               </div>
             </form>
             <p className={styles.credits}>
-              Made by <Link href="https://marban.is-a.dev">Marban</Link> and{' '}
-              <Link href="https://www.linkedin.com/in/srivishal-sivasubramanian-1a09b9240/">
+              Made by <Link href="https://xyz">xyz</Link> and{' '}
+              <Link href="https://www.linkedin.com/in/">
                 root-daemon
               </Link>
             </p>
